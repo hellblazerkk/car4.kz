@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": 
+  {
+    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=car4.kz;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
